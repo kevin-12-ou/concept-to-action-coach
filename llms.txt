@@ -1,0 +1,18 @@
+# Concept to Action Coach
+
+> An AI agent skill for explaining technical concepts to beginners and turning understanding into a small, verifiable action.
+
+Maintainer: kevin-12-ou
+Repository: https://github.com/kevin-12-ou/concept-to-action-coach
+License: MIT
+Skill name: concept-to-action-coach
+Version: 1.0.0
+Install: npx skills add kevin-12-ou/concept-to-action-coach --skill concept-to-action-coach
+
+## Documentation
+
+- [Agent instructions](https://raw.githubusercontent.com/kevin-12-ou/concept-to-action-coach/main/SKILL.md): capability and invocation scope.
+- [English README](https://raw.githubusercontent.com/kevin-12-ou/concept-to-action-coach/main/README.md): examples, installation, and limitations.
+- [中文说明](https://raw.githubusercontent.com/kevin-12-ou/concept-to-action-coach/main/README.zh-CN.md): 用途、安装、示例和边界。
+
+This is a concise documentation index, not a guarantee that a search engine or AI service will ingest or recommend this repository.
